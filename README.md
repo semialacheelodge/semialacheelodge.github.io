@@ -1,2 +1,2 @@
 # semialacheelodge.github.io
-Semialachee Lodge
+Semialachee Lodge web site
